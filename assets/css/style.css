@@ -22,7 +22,7 @@ body {
 /* --------- Game layout */
 
 .game-area {
-    background-color: #79babe;
+    background-color: #7cb6b2;
     box-sizing: border-box;
     width: 85%;
     height: 65vh;
@@ -88,11 +88,12 @@ body {
 
 .btn {
     width: 220px;
-    height: 60px;
+    height: 30px;
     font-family: "Raleway", sans-serif;
     text-transform: uppercase;
     letter-spacing: 1.2px;
     color: white;
+    background-color:#445361;
 }
 
 .btn:focus {
@@ -168,7 +169,6 @@ body {
     background-color: #445361;
     border: 1px transparent;
     border-radius: 20px;
-    /* #445361; */
 }
 
 .btn--gray:active,
